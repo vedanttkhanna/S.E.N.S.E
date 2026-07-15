@@ -1,0 +1,13 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+# Model bundles are multi-GB; distribute out-of-band
+app/src/main/assets/models/*.tflite
+app/src/main/assets/models/*.task
+app/src/main/assets/models/*.bin
