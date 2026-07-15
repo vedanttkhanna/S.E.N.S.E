@@ -1,4 +1,4 @@
-# Aegis-Edge — Universal Public Safety & Forensics Operating System
+# S.E.N.S.E. — Universal Public Safety & Forensics Operating System
 
 Edge-native, **neuro-symbolic** safety OS that runs entirely on a ~$150 Android
 phone (Snapdragon / MediaTek). Gemma-family models execute locally via
