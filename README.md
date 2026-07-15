@@ -8,7 +8,7 @@ evidence with a hash-chained local ledger.
 ## Project structure
 
 ```
-AegisEdge/
+S.E.N.S.E./
 ├── settings.gradle.kts / build.gradle.kts / gradle.properties
 ├── app/
 │   ├── build.gradle.kts                  # LiteRT, MediaPipe (vision/audio/genai), Compose
